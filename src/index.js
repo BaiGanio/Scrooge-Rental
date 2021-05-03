@@ -16,7 +16,7 @@ ReactDOM.render(
   //     </Router>
   //   </ServerCacheProvider>
   // </Provider>,
-  <Router basename="/backoffice">
+  <Router basename="/scrooge-rental">
     <App />
          {/* <GlobalLoading /> */}
   </Router>,
