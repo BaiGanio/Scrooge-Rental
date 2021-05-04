@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/scrooge-rental/static/css/main.e36dc39b.chunk.css",
+    "main.js": "/scrooge-rental/static/js/main.628a5ece.chunk.js",
+    "main.js.map": "/scrooge-rental/static/js/main.628a5ece.chunk.js.map",
+    "runtime-main.js": "/scrooge-rental/static/js/runtime-main.8658ab8e.js",
+    "runtime-main.js.map": "/scrooge-rental/static/js/runtime-main.8658ab8e.js.map",
+    "static/js/2.a65dc219.chunk.js": "/scrooge-rental/static/js/2.a65dc219.chunk.js",
+    "static/js/2.a65dc219.chunk.js.map": "/scrooge-rental/static/js/2.a65dc219.chunk.js.map",
+    "index.html": "/scrooge-rental/index.html",
+    "static/css/main.e36dc39b.chunk.css.map": "/scrooge-rental/static/css/main.e36dc39b.chunk.css.map",
+    "static/js/2.a65dc219.chunk.js.LICENSE.txt": "/scrooge-rental/static/js/2.a65dc219.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/scrooge-rental/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8658ab8e.js",
+    "static/js/2.a65dc219.chunk.js",
+    "static/css/main.e36dc39b.chunk.css",
+    "static/js/main.628a5ece.chunk.js"
+  ]
+}
