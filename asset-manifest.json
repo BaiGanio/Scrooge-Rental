@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/scrooge-rental/static/css/main.e36dc39b.chunk.css",
-    "main.js": "/scrooge-rental/static/js/main.628a5ece.chunk.js",
-    "main.js.map": "/scrooge-rental/static/js/main.628a5ece.chunk.js.map",
+    "main.js": "/scrooge-rental/static/js/main.ea809734.chunk.js",
+    "main.js.map": "/scrooge-rental/static/js/main.ea809734.chunk.js.map",
     "runtime-main.js": "/scrooge-rental/static/js/runtime-main.8658ab8e.js",
     "runtime-main.js.map": "/scrooge-rental/static/js/runtime-main.8658ab8e.js.map",
     "static/js/2.a65dc219.chunk.js": "/scrooge-rental/static/js/2.a65dc219.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.8658ab8e.js",
     "static/js/2.a65dc219.chunk.js",
     "static/css/main.e36dc39b.chunk.css",
-    "static/js/main.628a5ece.chunk.js"
+    "static/js/main.ea809734.chunk.js"
   ]
 }
