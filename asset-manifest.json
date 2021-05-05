@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/Scrooge-Rental/static/css/main.e36dc39b.chunk.css",
-    "main.js": "/Scrooge-Rental/static/js/main.9d3b0092.chunk.js",
-    "main.js.map": "/Scrooge-Rental/static/js/main.9d3b0092.chunk.js.map",
+    "main.css": "/Scrooge-Rental/static/css/main.c6d8190f.chunk.css",
+    "main.js": "/Scrooge-Rental/static/js/main.ab2aceae.chunk.js",
+    "main.js.map": "/Scrooge-Rental/static/js/main.ab2aceae.chunk.js.map",
     "runtime-main.js": "/Scrooge-Rental/static/js/runtime-main.6610c9c1.js",
     "runtime-main.js.map": "/Scrooge-Rental/static/js/runtime-main.6610c9c1.js.map",
-    "static/js/2.862158e8.chunk.js": "/Scrooge-Rental/static/js/2.862158e8.chunk.js",
-    "static/js/2.862158e8.chunk.js.map": "/Scrooge-Rental/static/js/2.862158e8.chunk.js.map",
+    "static/css/2.800be05e.chunk.css": "/Scrooge-Rental/static/css/2.800be05e.chunk.css",
+    "static/js/2.1000eae9.chunk.js": "/Scrooge-Rental/static/js/2.1000eae9.chunk.js",
+    "static/js/2.1000eae9.chunk.js.map": "/Scrooge-Rental/static/js/2.1000eae9.chunk.js.map",
     "index.html": "/Scrooge-Rental/index.html",
-    "static/css/main.e36dc39b.chunk.css.map": "/Scrooge-Rental/static/css/main.e36dc39b.chunk.css.map",
-    "static/js/2.862158e8.chunk.js.LICENSE.txt": "/Scrooge-Rental/static/js/2.862158e8.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/Scrooge-Rental/static/media/logo.6ce24c58.svg"
+    "static/css/2.800be05e.chunk.css.map": "/Scrooge-Rental/static/css/2.800be05e.chunk.css.map",
+    "static/css/main.c6d8190f.chunk.css.map": "/Scrooge-Rental/static/css/main.c6d8190f.chunk.css.map",
+    "static/js/2.1000eae9.chunk.js.LICENSE.txt": "/Scrooge-Rental/static/js/2.1000eae9.chunk.js.LICENSE.txt",
+    "static/media/Pickup-Truck-Tesla.79489f44.jpg": "/Scrooge-Rental/static/media/Pickup-Truck-Tesla.79489f44.jpg",
+    "static/media/Home.css": "/Scrooge-Rental/static/media/alsandra.227b29ea.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.6610c9c1.js",
-    "static/js/2.862158e8.chunk.js",
-    "static/css/main.e36dc39b.chunk.css",
-    "static/js/main.9d3b0092.chunk.js"
+    "static/css/2.800be05e.chunk.css",
+    "static/js/2.1000eae9.chunk.js",
+    "static/css/main.c6d8190f.chunk.css",
+    "static/js/main.ab2aceae.chunk.js"
   ]
 }
