@@ -1,0 +1,19 @@
+
+@font-face {
+    font-family: "Alsandra";
+    src: url("./../../assets/fonts/alsandra.ttf") format("truetype");
+  }
+  .Home .lander h1 {
+    font-size: 6.6em;
+    font-family: "Alsandra";
+  }
+    
+  .Home .lander p {
+    /* font-weight: 400; */
+    font-size: 1.8em;
+  }
+  .Home-image {
+    height: 60vmin;
+    pointer-events: none;
+  }
+  
