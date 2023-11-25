@@ -10,7 +10,7 @@ export default function Home() {
         <br />
         <h1>Welcome to Scrooge Rental</h1>
         <img src={truck} className="Home-image" alt="Truck" />
-        <p>The best place in the world for renting Tesla EVs... with just few clicks ;)</p>
+        <p>The best place in the world for renting Tesla (& not only!) EVs... with just few clicks ;)</p>
       </div>
     </div>
   );
